@@ -1,0 +1,13 @@
+github_tags.txt
+/Images for Procedures
+
+# Many of our notes contain screenshots of slides that may be confidential
+
+# Each such file is copied and has "SCREENSHOTS" added to its name
+# The files on GitHub are the copies with the screenshots removed
+/Notes/Webinar Notes/**/*SCREENSHOTS*
+
+# Procedures
+/Procedures/New Physics Employee To-Do List.docx
+/Procedures/Pinnacle/Archive a Patient in Pinnacle.docx
+/Procedures/Pinnacle/Unarchive a Patient in Pinnacle.docx

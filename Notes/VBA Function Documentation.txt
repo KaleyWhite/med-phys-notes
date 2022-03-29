@@ -1,0 +1,8 @@
+Common way to document functions in VBA
+The asterisk lines are 80 characters. Not sure if this matters in VBA, but just in case.
+
+'*******************************************************************************
+'Purpose: 
+'Inputs
+'Outputs: 
+'*******************************************************************************
